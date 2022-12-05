@@ -5,7 +5,7 @@ public class Functiontest {
     @Test
     public void tesIsFive() {
         int i = Functions.sum(6, 5);
-        Assertions.assertEquals(11, i);
+        Assertions.assertEquals(12, i);
     }
     @Test
     public void tesPow() {
